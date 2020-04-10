@@ -3,7 +3,6 @@ author = "Daan Asma"
 categories = ["fun", "darkwing"]
 date = 2020-04-07T22:00:00Z
 description = "De slechterikken slaan weer toe!"
-draft = true
 image = "/images/darkwing_enemies.gif"
 title = "Blogpostjeu"
 type = "post"
