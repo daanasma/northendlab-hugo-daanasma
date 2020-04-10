@@ -1,10 +1,10 @@
 ---
-label: Tools
+label: Projects
 hide_body: true
 fields:
 - type: field_group_list
-  name: tools
-  label: tools
+  name: projects
+  label: projecten
   fields:
   - type: text
     name: title
