@@ -1,10 +1,10 @@
 ############################ Default configuration #########################
 baseURL = "https://examplesite.com/"
 languageCode = "en-us"
-# site title 
-title = "Northendlab | Blog Template"
+# site title
+title = "Daanasma"
 # theme
-theme = "northendlab-hugo"
+theme = "northendlab-hugo-daanasma"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -68,7 +68,7 @@ home = "Home"
 # logo
 logo = "images/logo.svg"
 # meta data
-author = "Themefisher"
+author = "Daanasma"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
@@ -120,4 +120,4 @@ icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "#"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/daan-asma-218b7683/"
