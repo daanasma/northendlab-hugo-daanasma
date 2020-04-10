@@ -3,6 +3,7 @@ author = "Daan Asma"
 categories = ["fun", "darkwing"]
 date = 2020-04-07T22:00:00Z
 description = "De slechterikken slaan weer toe!"
+summary = "De slechterikken slaan weer toe!"
 image = "/images/darkwing_enemies.gif"
 title = "Blogpostjeu"
 type = "post"
@@ -20,4 +21,4 @@ Darkwing demonstreert een grote hoeveelheid onhandigheid en gebrek aan gezond ve
 
 **snapje?**
 
-    {{< youtube OZ2R6lsNink >}}
+ {{< youtube OZ2R6lsNink >}}
