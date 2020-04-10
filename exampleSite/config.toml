@@ -73,7 +73,7 @@ description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-163342485-1" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
@@ -110,14 +110,14 @@ link = "https://gethugothemes.com/shop/"
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+link = "https://www.instagram.com/daanasma/"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/DaanAsma"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/daanasma"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/daan-asma-218b7683/"
